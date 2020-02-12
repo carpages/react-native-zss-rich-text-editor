@@ -9,7 +9,7 @@
   "main": "index.js",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "react-native-webview-bridge-updated": "^1.0.0"
+    "react-native-webview-bridge-updated": "git+ssh://git@github.com:carpages/react-native-webview-bridge.git#rn-webview"
   },
   "peerDependencies": {
     "react": "*",
